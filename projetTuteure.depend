@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1736509495 source:c:\users\user\documents\jerico\projettuteure\affichage.c
+	<stdio.h>
+	"affichage.h"
+	"fichiers.h"
+
+1736464198 c:\users\user\documents\jerico\projettuteure\affichage.h
+
+1736510607 source:c:\users\user\documents\jerico\projettuteure\fichiers.c
+	<stdio.h>
+	<string.h>
+	"fichiers.h"
+	"jeu.h"
+	"affichage.h"
+	"random.h"
+
+1736507694 c:\users\user\documents\jerico\projettuteure\fichiers.h
+	"jeu.h"
+
+1736510784 source:c:\users\user\documents\jerico\projettuteure\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"jeu.h"
+	"affichage.h"
+	"fichiers.h"
+	"random.h"
+
+1736509968 c:\users\user\documents\jerico\projettuteure\jeu.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"random.h"
+
+1736510167 source:c:\users\user\documents\jerico\projettuteure\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<locale.h>
+	"jeu.h"
+	"affichage.h"
+	"fichiers.h"
+
+1736509936 c:\users\user\documents\jerico\projettuteure\random.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"jeu.h"
+
+1736510617 source:c:\users\user\documents\jerico\projettuteure\random.c
+	<stdlib.h>
+	<time.h>
+	"random.h"
+	"jeu.h"
+	"fichiers.h"
+
